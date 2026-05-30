@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingms888.github.io/do-digital-organism-index/sitemap.xml
